@@ -1,0 +1,6 @@
+framework module Pods_RNTheSnookerChamption {
+  umbrella header "Pods-RNTheSnookerChamption-umbrella.h"
+
+  export *
+  module * { export * }
+}
